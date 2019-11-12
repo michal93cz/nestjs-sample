@@ -1,1 +1,2 @@
-NestJS sample app
+## Framework documentation
+https://docs.nestjs.com/
